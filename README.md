@@ -1,1 +1,5 @@
-# Flight-Booking-Application-Traveller-
+# Flight-Booking-Application-Traveller
+This application was designed and worked on in cooperation between Rama Al-Youbi (me) and Raneem Al owide (@Rnoma18).
+-A project to learn how object-oriented programming works- 
+
+The goal of the application is to provide many features to the flight booking application among these features: The ability to keep passenger data (which are: passenger identification numbers, passenger names, passenger phone numbers, and passenger age) in a file and delete it at any time.  We used four classes. The first named (Passenger)has all the data about the passenger information and if they are a member of the traveller membership or not. The second named (Flight) has all the information about booking a flight, such as if it's around or one way and so. Also, the date and the time of the flight and store it in a file. The third named (Destination) has all the information about destinations, such as if it's domestic or international and stores it in a file. The fourth named (Seats) has all the information about seat reservations and stores it in a file. The application also provides the possibility of deleting a passenger account and even cancelling a flight and changing the flight date and time.
